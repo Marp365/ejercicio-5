@@ -1,3 +1,5 @@
+Crea un programa que permita llenar dos arreglos de 10 elementos cada uno. Compara ambos y determina cuántos elementos en las mismas posiciones son iguales.
+
 #include <iostream>
 using namespace std;
 
